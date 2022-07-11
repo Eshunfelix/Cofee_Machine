@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="felixpy" />
+    <orderEntry type="module" module-name="quiz-game-start" />
+    <orderEntry type="module" module-name="src8" />
+    <orderEntry type="module" module-name="SpirographChallenge" />
+    <orderEntry type="module" module-name="guess-the-number-final" />
+    <orderEntry type="module" module-name="hirst-painting" />
+    <orderEntry type="module" module-name="turtle_random_walk" />
+    <orderEntry type="module" module-name="day19-all-projects" />
+    <orderEntry type="module" module-name="turtle-race-start" />
+    <orderEntry type="module" module-name="snake_game" />
+    <orderEntry type="module" module-name="degrees" />
+    <orderEntry type="module" module-name="codepath" />
+    <orderEntry type="module" module-name="The-famous-arcade-game-pong" />
+  </component>
+  <component name="PyDocumentationSettings">
+    <option name="format" value="PLAIN" />
+    <option name="myDocStringFormat" value="Plain" />
+  </component>
+</module>

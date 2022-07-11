@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../SpirographChallenge/.idea/SpirographChallenge.iml" filepath="$PROJECT_DIR$/../SpirographChallenge/.idea/SpirographChallenge.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/The-famous-arcade-game-pong/.idea/The-famous-arcade-game-pong.iml" filepath="$USER_HOME$/PycharmProjects/The-famous-arcade-game-pong/.idea/The-famous-arcade-game-pong.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/codepath/.idea/codepath.iml" filepath="$USER_HOME$/PycharmProjects/codepath/.idea/codepath.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/day19-all-projects/.idea/day19-all-projects.iml" filepath="$USER_HOME$/PycharmProjects/day19-all-projects/.idea/day19-all-projects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../degrees/.idea/degrees.iml" filepath="$PROJECT_DIR$/../degrees/.idea/degrees.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/felixpy/.idea/felixpy.iml" filepath="$USER_HOME$/PycharmProjects/felixpy/.idea/felixpy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../guess-the-number-final/.idea/guess-the-number-final.iml" filepath="$PROJECT_DIR$/../guess-the-number-final/.idea/guess-the-number-final.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/hirst-painting/.idea/hirst-painting.iml" filepath="$USER_HOME$/PycharmProjects/hirst-painting/.idea/hirst-painting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/oop-coffee-machine-start.iml" filepath="$PROJECT_DIR$/.idea/oop-coffee-machine-start.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../quiz-game-start/.idea/quiz-game-start.iml" filepath="$PROJECT_DIR$/../quiz-game-start/.idea/quiz-game-start.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/day_20_snake_game/.idea/snake_game.iml" filepath="$USER_HOME$/PycharmProjects/day_20_snake_game/.idea/snake_game.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../src8/.idea/src8.iml" filepath="$PROJECT_DIR$/../src8/.idea/src8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../turtle-race-start/.idea/turtle-race-start.iml" filepath="$PROJECT_DIR$/../turtle-race-start/.idea/turtle-race-start.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/turtle_random_walk/.idea/turtle_random_walk.iml" filepath="$USER_HOME$/PycharmProjects/turtle_random_walk/.idea/turtle_random_walk.iml" />
+    </modules>
+  </component>
+</project>
